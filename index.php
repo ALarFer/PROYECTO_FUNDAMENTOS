@@ -63,6 +63,7 @@ if (isset($_SESSION['user_id'])) {
     <div class="cuadro">
         <img src="sistemas.png" alt="FISEI"/>
         <h3></h3>
+        <h2>Por favor Ingresa o Registrate</h2>
         <a href="login.php">Login</a> or <a href="signup.php">SignUp</a>
     </div>
 <?php endif; ?>
